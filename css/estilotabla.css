@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+	.prueba tr{
+		background-color: #6FC;
+	}
+
+	.prueba tr:hover{
+		background-color:#ffff99;
+	}
+	
+	.prueba td:hover{
+		background-color: #FC3;
+	}
+
+	.liga:hover{
+		color:#6F3
+		text-decoration:blink
+		
+	}
+	
+	.metrica tr{
+		background-color: #D0D0D0;
+	}
+		
+	.metrica tr:hover{
+		background-color:#80FF80;
+	}
+	
+	.metrica td:hover{
+		background-color: #18E227;
+	}	
+	
+	
+	#contenedor {
+	  width: 700px;
+	  background-color:#FFFFD5;
+	}
+	#cabecera {
+		background-color:#FF8080;
+		font-family:Verdana, Geneva, sans-serif;
+		font-size:16px;
+		font-style:normal;
+		
+	}
+	#menu {
+	  float: left;
+	  width: 150px;
+	  background-color:#00FF00;
+	}
+	#contenido {
+	  float: left;
+	  width: 550px;
+	  position:absolute;
+	  background-color:#FFC;
+	}
+	/*#pie {
+	  clear: both;
+	  background-color:#FFC;
+	}*/
